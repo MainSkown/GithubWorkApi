@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Logs\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GithubApi.Repo\GithubApi.Repo.csproj" />
+    <ProjectReference Include="..\GithubApi.Service\GithubApi.Service.csproj" />
+  </ItemGroup>
+
+
+</Project>
