@@ -1,0 +1,1 @@
+2021-05-03 16:57:36.758 +02:00 [INF] Error occurred at: One or more errors occurred. (GET "https://api.github.com/users/112321312321321" failed because response status code does not indicate success: 404 (Not Found).)
