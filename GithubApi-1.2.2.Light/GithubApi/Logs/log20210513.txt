@@ -1,0 +1,12 @@
+2021-05-13 18:29:36.152 +02:00 [INF] Error occurred at: Nieznany host.
+2021-05-13 18:32:47.699 +02:00 [INF] Error occurred at: Nieznany host.
+2021-05-13 18:33:45.136 +02:00 [INF] Error occurred at: Nieznany host.
+2021-05-13 18:36:48.318 +02:00 [INF] Error occurred at: Nieznany host.
+2021-05-13 18:37:45.265 +02:00 [INF] Error occurred at: Nieznany host.
+2021-05-13 18:41:48.098 +02:00 [INF] Error occurred at: Nieznany host.
+2021-05-13 18:50:04.947 +02:00 [INF] Error occurred at: GET "https://api.github.com/users/12323231232131" failed because response status code does not indicate success: 404 (Not Found).
+2021-05-13 19:35:21.100 +02:00 [INF] Error occurred at: A suitable constructor for type 'GithubApi.Repo.GithubRepo' could not be located. Ensure the type is concrete and services are registered for all parameters of a public constructor.
+2021-05-13 19:37:39.380 +02:00 [INF] Error occurred at: Invalid URI: The format of the URI could not be determined.
+2021-05-13 19:39:09.348 +02:00 [INF] Error occurred at: Response status code does not indicate success: 403 (Forbidden).
+2021-05-13 19:41:15.952 +02:00 [INF] Error occurred at: Response status code does not indicate success: 403 (Forbidden).
+2021-05-13 19:42:14.079 +02:00 [INF] Error occurred at: Response status code does not indicate success: 404 (Not Found).
